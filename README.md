@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TyyDev
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning C++
+- 😄 Pronouns: he/him
